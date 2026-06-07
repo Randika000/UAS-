@@ -15,3 +15,6 @@ Lankah-langkah
 5. Ketik ./app.exe
 6. Masukkan batas angka bilangan prima yang anda inginkan
 7. Tunggu sampai selesai dan hasilnya akan keluar
+
+Link Youtube
+https://youtu.be/cZ8__gEuG7w
